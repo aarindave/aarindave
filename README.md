@@ -1,6 +1,6 @@
 ## 👋 Hi, I am Aarin Dave
 
-I am an aspiring computer scientist with experience across **web development**, **mobile applications**, **game development**, **AI/ML**, and **extended reality (XR)**. My undergraduate focus is exploring **virtual reality applications** in computational neuroscience and other innovative computing domains. I build projects that demonstrate both technical rigor and practical problem-solving skills, and I enjoy learning new technologies and frameworks to expand my expertise.
+I am an aspiring computational neuroscientist with experience across **web development**, **mobile applications**, **game development**, **AI/ML**, and **extended reality (XR)**. My undergraduate focus is exploring **virtual reality applications** in computational neuroscience and other innovative computing domains. I build projects that demonstrate both technical rigor and practical problem-solving skills, and I enjoy learning new technologies and frameworks to expand my expertise.
 
 ---
 
