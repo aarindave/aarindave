@@ -27,7 +27,7 @@ I am an aspiring computational neuroscientist with experience across **web devel
 
 ### 🌐 Online Presence
 
-* **Portfolio:** [aarindave.com](https://aarindave.com)
+* **Personal:** [aarindave.com](https://www.aarindave.com)
 * **LinkedIn:** [linkedin.com/in/aarindave](https://linkedin.com/in/aarindave)
 * **Résumé:** [Download PDF](https://your-link-to-resume.pdf)
 
